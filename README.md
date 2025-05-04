@@ -1,5 +1,3 @@
 # Pong-Game
 This is a pong game created with turtle in python
-Here the 2 playres are named as player left and player right, who each control the beams/ bat that hit the ball, which randomally bounce as it hit the top,bottom and the slabs. 
-If the ball crosses the left or right side of the screen, the opposite side gets a point. 
-After a certain number of points(currently 10) are scored, The winner is declared by turning the top fount name to green and the loser's to red. A Dialoge box is also shows the winner.
+There are two players, referred to as Player Left and Player Right, each controlling a paddle to hit the ball. The ball bounces randomly upon hitting the top, bottom, or the paddles. If the ball crosses the left or right edge of the screen, the opposing player scores a point. Once a player reaches a certain number of points (currently set to 10), the game declares a winner. The winner's name at the top of the screen turns green, while the loser's name turns red. A dialog box also appears to announce the winner.
